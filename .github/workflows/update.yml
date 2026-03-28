@@ -3,28 +3,25 @@ name: Daily Timeline Auto Render
 on:
   push:
     paths:
-      - 'daily_data.json'      # 只要你修改了数据文件，它就开工
-  workflow_dispatch:           # 允许你手动点击按钮运行
+      - 'daily_data.json'
+  workflow_dispatch:
 
 jobs:
   render_svg:
     runs-on: ubuntu-latest
     permissions:
-      contents: write          # 必须开启写入权限，否则机器人无法上传图片
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Install Dependencies
-        run: pip install requests  # 如果你的脚本没用到 requests 可以删掉这行
-
       - name: Run Python Script
-        run: python render.py      # 确保你的脚本文件名确实叫 render.py
+        run: python generate_timeline_svg.py # 确认这里和你的文件名一致
 
       - name: Push Generated SVG
         run: |
