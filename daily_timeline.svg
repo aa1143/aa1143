@@ -1,0 +1,36 @@
+
+<svg width="840" height="660" viewBox="0 0 840 660" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0.5" y="0.5" width="839" height="659" rx="12" fill="white" stroke="#e1e4e8"/>
+  
+  <g transform="translate(40, 40)">
+    <path d="M11 2a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v28a1 1 0 0 1-1 1H12a1 1 0 0 1-1-1V2Z" fill="#F0F1F1" stroke="#ABB3BD" stroke-width="1.5"/>
+    <path d="M11 8.5h18" stroke="#ABB3BD" stroke-width="1.5"/>
+    <text x="20" y="23" text-anchor="middle" fill="#8b949e" font-family="Arial, system-ui" font-size="14" font-weight="600">17</text>
+    
+    <text x="45" y="24" fill="#000000" font-family="Arial, system-ui" font-size="28" font-weight="bold">每日记录</text>
+    <text x="1" y="60" fill="#586069" font-family="Menlo, monospace" font-size="16">My Daily Log · 持续更新中</text>
+  </g>
+  
+  <line x1="60.5" y1="180" x2="60.5" y2="600" stroke="#e1e4e8" stroke-width="2"/>
+
+  <g transform="translate(0, 170)">
+    <circle cx="60.5" cy="18" r="6" fill="#9b8bf1"/>
+    
+    <g transform="translate(80, 0)">
+      <text x="0" y="20" fill="#8b949e" font-family="Arial, system-ui" font-size="18" font-weight="500">2026-03-28</text>
+      
+      <text x="0" y="55" fill="#000000" font-family="Arial, system-ui" font-size="20" font-weight="bold">配置 GitHub 自动时间轴</text>
+      
+      <foreignObject x="0" y="70" width="700" height="100">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: Arial, system-ui; font-size: 16px; color: #586069; line-height: 1.6; word-wrap: break-word;">
+          成功通过 GitHub Actions 实现了 SVG 动态渲染，主页现在看起来很酷。
+        </div>
+      </foreignObject>
+<g transform="translate(0, 120)">
+        <rect x="0" y="0" width="76" height="28" rx="6" fill="#f6f8fa" stroke="#eaecef"/>
+        <text x="38.0" y="19" text-anchor="middle" fill="#9b8bf1" font-family="Arial, system-ui" font-size="14" font-weight="500">GitHub</text>
+
+        <rect x="86" y="0" width="76" height="28" rx="6" fill="#f6f8fa" stroke="#eaecef"/>
+        <text x="124.0" y="19" text-anchor="middle" fill="#9b8bf1" font-family="Arial, system-ui" font-size="14" font-weight="500">Python</text>
+</g>
+    </g> </g> </svg>
