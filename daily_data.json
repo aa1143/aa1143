@@ -1,0 +1,9 @@
+[
+  {
+    "date": "2026-03-28",
+    "title": "配置 GitHub 自动时间轴",
+    "description": "成功通过 GitHub Actions 实现了 SVG 动态渲染，主页现在看起来很酷。",
+    "tags": ["GitHub", "Python"],
+    "color": "#9b8bf1"
+  }
+]
