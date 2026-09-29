@@ -14,4 +14,4 @@
 
 ## Contact me
 
-[个人网站](https://nano-ai.tech/) · [X](https://x.com/antiAIvo)
+[个人网站](https://nano-ai.tech/) · [X](https://x.com/antiAIvo) · [814185384@qq.com](mailto:814185384@qq.com)
