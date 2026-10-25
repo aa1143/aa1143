@@ -15,7 +15,7 @@
 
 ## 🛠 最新小工具：CamWindow
 
-<img src="https://raw.githubusercontent.com/aa1143/CamWindow/main/icon.png" width="64" align="left" alt="CamWindow">
+<img src="assets/camwindow-icon.png" width="64" align="left" alt="CamWindow">
 
 **[CamWindow](https://github.com/aa1143/CamWindow)** — 一个极简的 macOS 悬浮摄像头窗口，专为录屏教程设计。
 从 16:9 画面中心裁出 3:4 / 9:16 / 1:1 竖屏，不拉伸不变形，无边框圆角、始终置顶，原生 Swift 单文件。
