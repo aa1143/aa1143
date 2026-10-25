@@ -25,7 +25,7 @@
 ## 其他项目
 
 - [tiny_openclaw](https://github.com/aa1143/tiny_openclaw) — 轻量级 AI Agent 平台。
-- [engraved-knowledge-cover-skill](https://github.com/aa1143/engraved-knowledge-cover-skill) — 用 AI 制作知识内容封面。
+- [knowledge-media-cover](https://github.com/aa1143/knowledge-media-cover) — 用 AI 制作知识内容封面。
 
 ## Contact me
 
