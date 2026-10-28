@@ -1,6 +1,6 @@
-## About
+## 关于我
 
-我是纳米，北邮毕业，先后在百度、腾讯工作，做了多年后端工程师和面试官。现在正在学习 LLM 和 Agent，把学到的东西写成教程，也动手做一些实用的小工具。
+我是纳米，北邮毕业，百度实习，校招腾讯，做了多年后端工程师和面试官。
 
 ## 📚 大模型教程
 
@@ -43,6 +43,6 @@
 - **[knowledge-media-cover](https://github.com/aa1143/knowledge-media-cover)**：知识类自媒体的封面 Skill。暖象牙色纸底、大标题、暗红色标签，只要提供分类和标题，就能生成一套统一风格的封面。
 - **[engraved-knowledge-cover-skill](https://github.com/aa1143/engraved-knowledge-cover-skill)**：黑白雕刻风格的知识封面 Skill。用一个思想隐喻表达主题，适合做公众号封面和文章头图。
 
-## Contact me
+## 找到我
 
 [个人网站](https://namiai.tech/) · [X](https://x.com/antiAIvo) · [Email](mailto:814185384@qq.com)
