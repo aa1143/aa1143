@@ -1,32 +1,40 @@
 ## About
 
-我是纳米，正在学习 LLM 和 Agent，把学到的东西写成教程，也动手做一些实用的小工具。
+我是纳米，后端工程师，正在学习 LLM 和 Agent。我把学到的东西写成教程，也动手做一些实用的小工具。
 
-经历：北邮毕业 → 百度实习 → 校招腾讯
+## 📚 大模型教程
 
-## 📚 教程
+全部教程都在 **[namiai.tech](https://namiai.tech/)**，建议按这个顺序学：
 
-全部教程都在 [nano-ai.tech](https://nano-ai.tech/)：
+1. **[大模型学习路线图](https://namiai.tech/map/)**：先看全景，从 Transformer 到 DeepSeek-V4，分成 8 个阶段、51 个知识点。
+2. **[图解大模型](https://namiai.tech/matrix/)**：用「猫吃鱼」3 个词，一格一格地算矩阵。
+   - [大模型是怎么推理的](https://namiai.tech/matrix/)
+   - [大模型是怎么训练的](https://namiai.tech/training/)
+   - [Agent 是怎么工作的](https://namiai.tech/agent/)
+3. **[从零手写大模型](https://namiai.tech/articles/)**：用代码把大模型复现一遍，从 GPT-2 写到 LLaMA，再到 DeepSeek。包括推理篇 15 讲、训练篇 5 讲、从 GPT-2 到 LLaMA 5 讲、从 LLaMA 到 DeepSeek 2 讲。
+4. **[大模型论文研读](https://namiai.tech/papers/)**：读原始论文，目前有 Attention Is All You Need 的动态架构图，以及 Switch Transformer（MoE）的三篇解读。
 
-- **[从零手写大模型](https://nano-ai.tech/articles/)** — 从零实现大模型，推理、训练、进阶三篇共 25 讲，已完结。
-- **[大模型论文研读](https://nano-ai.tech/papers/)** — 精读经典大模型论文，从 Switch Transformer 开始。
-- **[矩阵里的大模型](https://nano-ai.tech/matrix/)** — 逐格计算 Transformer、LLaMA 和 DeepSeek MLA。
-- **[上下文里的 Agent](https://nano-ai.tech/agent/)** 🆕 — 10 章拆解 Agent Loop：工具、上下文、记忆、MCP、子 Agent。
+## 🛠 开源项目
 
-## 🛠 最新小工具：CamWindow
+<img src="assets/namigpt-logo.png" width="64" align="left" alt="NamiGPT">
 
-<img src="assets/camwindow-icon.png" width="64" align="left" alt="CamWindow">
-
-**[CamWindow](https://github.com/aa1143/CamWindow)** 一个极简的 macOS 悬浮摄像头窗口，专为录屏教程设计。<br>
-从 16:9 画面中心裁出 3:4 / 9:16 / 1:1 竖屏，不拉伸不变形，无边框圆角、始终置顶，原生 Swift 单文件。
+**[NamiGPT](https://github.com/aa1143/NamiGPT)**：零基础入门大模型的 LLM 基础教程。<br>
+用 PyTorch 从零手写 GPT-2，加载 OpenAI 官方权重，跑通推理和文本生成。共 15 篇图文，每篇都配可运行的代码。
 
 <br clear="left">
 
-## 其他项目
+<img src="assets/camwindow-icon.png" width="64" align="left" alt="CamWindow">
 
-- [tiny_openclaw](https://github.com/aa1143/tiny_openclaw) — 轻量级 AI Agent 平台。
-- [knowledge-media-cover](https://github.com/aa1143/knowledge-media-cover) — 用 AI 制作知识内容封面。
+**[CamWindow](https://github.com/aa1143/CamWindow)**：一个极简的 macOS 悬浮摄像头窗口，专为录屏教程设计。<br>
+它能从 16:9 画面的中心裁出 3:4、9:16 或 1:1 的竖屏，不拉伸、不变形，窗口无边框、带圆角、始终置顶，用原生 Swift 单文件写成。
+
+<br clear="left">
+
+**其他项目**
+
+- [tiny_openclaw](https://github.com/aa1143/tiny_openclaw)：轻量级的 AI Agent 平台。
+- [knowledge-media-cover](https://github.com/aa1143/knowledge-media-cover)：用 AI 制作知识类内容的封面。
 
 ## Contact me
 
-[个人网站](https://nano-ai.tech/) · [X](https://x.com/antiAIvo) · [Email](mailto:814185384@qq.com)
+[个人网站](https://namiai.tech/) · [X](https://x.com/antiAIvo) · [Email](mailto:814185384@qq.com)
