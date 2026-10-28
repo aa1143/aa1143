@@ -14,12 +14,14 @@
 
 **2. [图解大模型](https://namiai.tech/matrix/)**<br>
 用「猫吃鱼」3 个词，一格一格算矩阵
+
 - [大模型是怎么推理的](https://namiai.tech/matrix/)
 - [大模型是怎么训练的](https://namiai.tech/training/)
 - [Agent 是怎么工作的](https://namiai.tech/agent/)
 
 **3. [从零手写大模型](https://namiai.tech/articles/)**<br>
 用代码复现一遍：GPT-2 → LLaMA → DeepSeek
+
 - 推理篇 · 15 讲
 - 训练篇 · 5 讲
 - 从 GPT-2 到 LLaMA · 5 讲
@@ -27,6 +29,7 @@
 
 **4. [大模型论文研读](https://namiai.tech/papers/)**<br>
 读原始论文
+
 - Attention Is All You Need · 动态架构图
 - Switch Transformer（MoE）· 三篇解读
 
