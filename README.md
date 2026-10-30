@@ -10,9 +10,10 @@
 2. **[图解大模型](https://namiai.tech/matrix/)**：用「猫吃鱼」3 个词，一格一格地算矩阵。
    - [大模型是怎么推理的](https://namiai.tech/matrix/)
    - [大模型是怎么训练的](https://namiai.tech/training/)
-   - [Agent 是怎么工作的](https://namiai.tech/agent/)
+   - [Agent 是怎么工作的](https://namiai.tech/matrix/agent/)
 3. **[从零手写大模型](https://namiai.tech/articles/)**：用代码把大模型复现一遍，从 GPT-2 写到 LLaMA，再到 DeepSeek。包括推理篇 15 讲、训练篇 5 讲、从 GPT-2 到 LLaMA 5 讲、从 LLaMA 到 DeepSeek 2 讲。
-4. **[大模型论文研读](https://namiai.tech/papers/)**：读原始论文，目前有 Attention Is All You Need 的动态架构图，以及 Switch Transformer（MoE）的三篇解读。
+4. **[从零手写 Agent](https://namiai.tech/agent/)**：从 100 行的最小循环开始，一课加一个能力：工具、权限、上下文、Skills、MCP、子 Agent、计划、记忆，最后拆解 Claude Code、Codex 等主流 Agent。共 18 讲。
+5. **[大模型论文研读](https://namiai.tech/papers/)**：读原始论文，目前有 Attention Is All You Need 的动态架构图，以及 Switch Transformer（MoE）的三篇解读。
 
 ## 🛠 开源项目
 
@@ -22,6 +23,13 @@
 
 **[NamiGPT](https://github.com/aa1143/NamiGPT)**：零基础入门大模型的 LLM 基础教程。<br>
 用 PyTorch 从零手写 GPT-2，加载 OpenAI 官方权重，跑通推理和文本生成。共 15 篇图文，每篇都配可运行的代码。
+
+<br clear="left">
+
+<img src="assets/namiagent-logo.png" width="64" align="left" alt="NamiAgent">
+
+**[NamiAgent](https://github.com/aa1143/NamiAgent)**：零基础入门 AI Agent 的基础教程。<br>
+从 100 行的最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent。共 18 篇图文，前 11 课每课都配可运行的代码。
 
 <br clear="left">
 
